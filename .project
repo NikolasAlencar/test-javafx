@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>javafx2</name>
+=======
+	<name>javafx1</name>
+>>>>>>> cbdedfad01fbfc7a9417e70756eb530d348085dd
 	<comment></comment>
 	<projects>
 	</projects>
